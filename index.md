@@ -14,3 +14,7 @@
 ``` javascript
 var myVar = "Siemanko! Witajcie w mojej kuchni";
 ```
+
+- [x] Coś nowego
+- [x] Kolejne
+- [ ] Zakończenie
