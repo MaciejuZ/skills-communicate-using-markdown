@@ -14,3 +14,8 @@
 ``` javascript
 var myVar = "Siemanko! Witajcie w mojej kuchni";
 ```
+
+
+- [x] Włączenie strony
+- [x] Przerobienie indexu
+- [ ] Przedstawienie
